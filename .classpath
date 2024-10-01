@@ -126,5 +126,7 @@
 	<classpathentry kind="lib" path="D:/Business/Eclipse/kr.co.himedia.sn.ecommerce5th.moon/WebContent/WEB-INF/lib/selenium-java-4.11.0/lib/opentelemetry-sdk-trace-1.26.0.jar"/>
 	<classpathentry kind="lib" path="D:/Business/Eclipse/kr.co.himedia.sn.ecommerce5th.moon/WebContent/WEB-INF/lib/selenium-java-4.11.0/lib/opentelemetry-semconv-1.26.0-alpha.jar"/>
 	<classpathentry kind="lib" path="D:/Business/Eclipse/kr.co.himedia.sn.ecommerce5th.moon/WebContent/WEB-INF/lib/selenium-java-4.11.0/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-9.0.89/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-9.0.89/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
 </classpath>
